@@ -1,6 +1,6 @@
 # List
 
-This is a list of project for me to do
+This is a list of projects for me to do
 
 ## C#
 * [Simple RPG](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
